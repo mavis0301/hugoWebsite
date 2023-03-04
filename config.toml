@@ -1,0 +1,97 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-tw'
+title = '廢小舖'
+theme = 'hugo-universal-theme'
+defaultContentLanguage = "zh-tw"
+displayPoweredBy = false
+summaryLength = 70
+paginate = 10
+pluralizelisttitles = false
+
+
+[menu]
+
+
+# Main menu
+[[menu.main]]
+    name       = "關於我們"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "最新消息"
+    identifier = "menu.news"
+    url        = "/news"
+    weight     = 2
+
+[[menu.main]]
+    name       = "產品介紹"
+    identifier = "menu.product"
+    url        = "/product"
+    weight     = 3
+
+[[menu.main]]
+    name       = "聯絡我們"
+    identifier = "menu.contact"
+    url        = "/contact"
+    weight     = 4
+
+[[menu.main]]
+    name       = "測試"
+    identifier = "menu.test"
+    url        = "/img/lazy.png"
+    weight     = 5
+
+
+
+
+[params]
+    logo = "img/lazy.png"
+    logo_small = "img/p1.png"
+    disabled_logo = false
+    logo_text = "lei_gallery"
+    style = 'default'
+    about_us = "<p>Just about our company.</p>"
+    contact_url = "/contact"
+    address = """<p class="text-uppercase"><strong>AiUnion Ltd.</strong>
+        <br>新北市中和區
+        
+      </p>
+      """
+    
+
+
+[params.topbar]
+    enable = true
+    text = "<p>It is top bar.</p>"
+
+#應該是sidebar
+[params.widgets]
+    search = true
+    categories = true
+    tags = true
+
+#輪轉頁面
+[params.carouselHomepage]
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+#首頁的最新消息summary
+[params.recent_posts]
+    enable = true
+    title = "最新消息"
+    subtitle = "網頁維護中"
+    hide_summary = false
+
+[params.footer.recent_posts]
+    enable = false
+
+
+    
+
+
+
+    
