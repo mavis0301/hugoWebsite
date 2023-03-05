@@ -1,12 +1,14 @@
 baseURL = 'http://example.org/'
 languageCode = 'zh-tw'
-title = '廢小舖'
+title = '測試網站啦'
 theme = 'hugo-universal-theme'
 defaultContentLanguage = "zh-tw"
+hasCJKLanguage = true
 displayPoweredBy = false
 summaryLength = 70
 paginate = 10
 pluralizelisttitles = false
+
 
 
 [menu]
@@ -37,18 +39,14 @@ pluralizelisttitles = false
     url        = "/contact"
     weight     = 4
 
-[[menu.main]]
-    name       = "測試"
-    identifier = "menu.test"
-    url        = "/img/lazy.png"
-    weight     = 5
+
 
 
 
 
 [params]
-    logo = "img/lazy.png"
-    logo_small = "img/p1.png"
+    logo = "img/logo.png"
+    logo_small = "img/logo.png"
     disabled_logo = false
     logo_text = "lei_gallery"
     style = 'default'
@@ -60,17 +58,24 @@ pluralizelisttitles = false
       </p>
       """
     
+    #不知道怎麼用
+    viewMorePostLink = "/news/"
+    author = "mavis"
+    defaultKeywords = ["undifined"]
+    mainSections = ["news","product"]
+    defaultDescription = "暫無敘述"
+    
 
 
-[params.topbar]
-    enable = true
-    text = "<p>It is top bar.</p>"
+#[params.topbar]
+    #enable = true
+    #text = "<p>It is top bar.</p>"
 
 #應該是sidebar
 [params.widgets]
-    search = true
-    categories = true
-    tags = true
+    search = false
+    categories = false
+    tags = false
 
 #輪轉頁面
 [params.carouselHomepage]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on 測試網站啦</title>
+    <link>http://example.org/news/</link>
+    <description>Recent content in News on 測試網站啦</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>廢文</title>
+      <link>http://example.org/news/meme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/meme/</guid>
+      <description>晚餐吃什麼 義大利麵咖哩豬排飯魷魚羹蛋糕漢堡薯條</description>
+    </item>
+    
+    <item>
+      <title>還在測試中</title>
+      <link>http://example.org/news/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/first/</guid>
+      <description>我們都知道，只要有意義，那麽就必須慎重考慮。為什麼是這樣呢？要想清楚，吃飯睡覺打東東，到底是一種怎麽樣的存在。屠格涅夫在不經意間這樣說過，你</description>
+    </item>
+    
+  </channel>
+</rss>

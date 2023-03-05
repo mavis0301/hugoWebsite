@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>測試網站啦</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 測試網站啦</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>product No.1 (release)</title>
+      <link>http://example.org/product/one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/product/one/</guid>
+      <description>拉羅什夫科有一句名言，取得成就時堅持不懈，要比遭到失敗時頑強不屈更重要。這果然是一句至理名言。米歇潘有講過一句名言，生命是一條艱險的峽谷，只</description>
+    </item>
+    
+    <item>
+      <title>product No.2</title>
+      <link>http://example.org/product/two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/product/two/</guid>
+      <description>為什麼AI人臉辨識對我們來說這麼重要？問題的關鍵究竟為何？所以說，我們一般認為，抓住了問題的關鍵，其他一切則會迎刃而解。一般來說，就我個人來</description>
+    </item>
+    
+    <item>
+      <title>廢文</title>
+      <link>http://example.org/news/meme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/meme/</guid>
+      <description>晚餐吃什麼 義大利麵咖哩豬排飯魷魚羹蛋糕漢堡薯條</description>
+    </item>
+    
+    <item>
+      <title>聯絡我們</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>聯絡資訊 電話 : 12345678 地址 : XXXXXXXXXXXXXXXX</description>
+    </item>
+    
+    <item>
+      <title>還在測試中</title>
+      <link>http://example.org/news/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/first/</guid>
+      <description>我們都知道，只要有意義，那麽就必須慎重考慮。為什麼是這樣呢？要想清楚，吃飯睡覺打東東，到底是一種怎麽樣的存在。屠格涅夫在不經意間這樣說過，你</description>
+    </item>
+    
+  </channel>
+</rss>

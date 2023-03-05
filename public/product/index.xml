@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product on 測試網站啦</title>
+    <link>http://example.org/product/</link>
+    <description>Recent content in Product on 測試網站啦</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language><atom:link href="http://example.org/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>product No.1 (release)</title>
+      <link>http://example.org/product/one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/product/one/</guid>
+      <description>拉羅什夫科有一句名言，取得成就時堅持不懈，要比遭到失敗時頑強不屈更重要。這果然是一句至理名言。米歇潘有講過一句名言，生命是一條艱險的峽谷，只</description>
+    </item>
+    
+    <item>
+      <title>product No.2</title>
+      <link>http://example.org/product/two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/product/two/</guid>
+      <description>為什麼AI人臉辨識對我們來說這麼重要？問題的關鍵究竟為何？所以說，我們一般認為，抓住了問題的關鍵，其他一切則會迎刃而解。一般來說，就我個人來</description>
+    </item>
+    
+  </channel>
+</rss>
